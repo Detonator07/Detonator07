@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Detonator07
-- 👀 I’m interested in Blockchain Development 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on solidity projects 
+- 👋 Hi, I’m Shubham Maheshwari, 
 - 📫 How to reach me altvaultsolutions@gmail.com
 
 <!---
